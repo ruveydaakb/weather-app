@@ -1,4 +1,4 @@
-# Weather App Using React.js and API
+# Weather app using React.js and API
 
 ![weather](https://github.com/ruveydaakb/weather-app/assets/54941922/d32b7c8e-0bab-4f6c-9700-61eb13d9f5ec)
 
